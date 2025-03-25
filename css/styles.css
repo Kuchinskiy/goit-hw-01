@@ -11,4 +11,7 @@
 
 .logo {
 	text-transform: uppercase;
+	color: blueviolet;
+	font-family: var(--second-family);
+	font-weight: 700;
 }
